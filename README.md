@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Software Development student from Costa Rica <img src="https://flagcdn.com/w20/cr.png" width="20"/> Costa Rica<br>Focused on backend development</p>
+<p align="left">Software Development student from Costa Rica <img src="https://flagcdn.com/w20/cr.png" width="20"/><br>Focused on backend development</p>
 
 ###
 
