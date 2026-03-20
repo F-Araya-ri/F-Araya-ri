@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Araya Rivera</h1>
 <h3 align="center">Software Engineering Student from Costa Rica Focused on backend development</h3>
 
+- 🎓 Software Engineering Student
+-🔎 Interested in Backend Development & Machine Learning
+-🌱 Focused on continuous improvement and growth
 - 📫 How to reach me **arayaf773@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
