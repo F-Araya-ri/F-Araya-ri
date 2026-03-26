@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Development Student | Backend & ML Enthusiast</h3>
 
 <p align="center">
-  🇨🇷 From Costa Rica <br>
+  <img src="https://flagcdn.com/w20/cr.png" width="20"/> From Costa Rica <br>
   Passionate about building scalable backend systems and exploring machine learning.
 </p>
 
