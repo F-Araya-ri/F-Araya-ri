@@ -6,14 +6,15 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Felipe Araya Rivera</h1></summary>
+    <p align="left">Software Development student from Costa Rica <img src="https://flagcdn.com/w20/cr.png" width="20"/> Costa Rica<br>Focused on  backend development & machine learning</p>
   </ul>
 </div>
 
 
 <!--Intro start-->
-<h3>- 🎓 Software Engineering Student </h3>
-<h3>- 🔎 Interested in Backend Development & Machine Learning</h3>
-<h3>- 🌱 Focused on continuous improvement and growth </h3>
+<h4>- 🎓 Software Engineering Student </h3>
+<h4>- 🔎 Interested in Backend Development & Machine Learning</h3>
+<h4>- 🌱 Focused on continuous improvement and growth </h3>
 
 
 <div id="user-content-toc">
