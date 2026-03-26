@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Felipe Araya Rivera</h1></summary>
-    <p align="left">Software Development student from Costa Rica <img src="https://flagcdn.com/w20/cr.png" width="20"/> Costa Rica<br>Focused on  backend development & machine learning</p>
+    <p align="center">Software Development student from Costa Rica <img src="https://flagcdn.com/w20/cr.png" width="20"/> Costa Rica<br>Focused on  backend development & machine learning</p>
   </ul>
 </div>
 
