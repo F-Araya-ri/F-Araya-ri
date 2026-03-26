@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://flagcdn.com/w20/cr.png" width="20"/> From Costa Rica <br>
-  Passionate about building scalable backend systems and exploring machine learning.
+  Focused on improving backend development skills and exploring machine learning applications.
 </p>
 
 ---
